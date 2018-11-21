@@ -12,7 +12,6 @@ Perhaps "Roadmaps" is such a buzzword, indeed it is. Me, just trying to be catch
 * Project:
 
 ### 3. JS Framework
-* [the green one :wink:](https://en.wikipedia.org/wiki/Green_Lantern)
 * [Docs](https://vuejs.org/)
 * Project:
 
