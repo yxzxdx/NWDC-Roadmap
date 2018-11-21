@@ -3,7 +3,7 @@ Perhaps "Roadmaps" is such a buzzword, indeed it is. Me, just trying to be catch
 
 ### 1. HTML & CSS
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
-* [W3Schools, THE WORLD'S LARGEST WEB DEVELOPER SITE, Best Reference](https://www.w3schools.com/)
+* [W3Schools](https://www.w3schools.com/)
 * [Build HMTL Website with Responsive Layout by Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw)
 * Project: Basic responsive portofolio pages. Using only plain HTML/CSS.
 
@@ -13,6 +13,7 @@ Perhaps "Roadmaps" is such a buzzword, indeed it is. Me, just trying to be catch
 
 ### 3. JS Framework
 * [the green one :wink:](https://en.wikipedia.org/wiki/Green_Lantern)
+* [Docs](https://vuejs.org/)
 * Project:
 
 ### 4. Build an API 
