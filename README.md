@@ -8,7 +8,7 @@ Perhaps "Roadmaps" is such a buzzword, indeed it is. Me, just trying to be catch
 * Project: Basic responsive portofolio pages. Using only plain HTML/CSS.
 
 ### 2. Javascript
-* [all hail mbah gugel](https://www.google.com)
+* [Javascript 30 - Build 30 projects in 30 days by Wes Bos :star2::star2::star2::star2::star2:  ](https://javascript30.com/)
 * Project:
 
 ### 3. JS Framework
