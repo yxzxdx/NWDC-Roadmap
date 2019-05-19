@@ -6,7 +6,7 @@ Perhaps "Roadmaps" is such a buzzword, indeed it is. Me, just trying to be catch
 * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Learn)
 * [W3Schools](https://www.w3schools.com/)
 * [Build HMTL Website with Responsive Layout by Traversy Media](https://www.youtube.com/watch?v=Wm6CUkswsNw)
-* Project: Basic responsive portofolio pages. Using only plain HTML/CSS.
+* Project: [Basic responsive portofolio pages. Using only plain HTML/CSS.](https://yzdunda.github.io/1-HTML-CSS/)
 
 ### 2. Javascript
 * [Javascript 30 - Build 30 projects in 30 days by Wes Bos :star2::star2::star2::star2::star2:  ](https://javascript30.com/)
